@@ -46,6 +46,4 @@ Run linear regression on each relationship and separate them into Northern Hemis
 
 ## Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
-
-
+Trilogy Education Services © 2021. All Rights Reserved.
